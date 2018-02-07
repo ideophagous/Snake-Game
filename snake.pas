@@ -204,8 +204,7 @@ BEGIN
                 count:=count+1;
                 nosound();
 
-                {gotoxy(1,1);
-                write(count);}
+                
         END;
 END;
 
