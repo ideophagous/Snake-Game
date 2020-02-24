@@ -1,10 +1,10 @@
 Snake game I made in Pascal just for fun.
 
 Function names are mostly in Moroccan Darija:
-7nch = snake
-zda7 = hit
-boita = box
-makla = food
+- 7nch = snake
+- zda7 = hit
+- boita = box
+- makla = food
 
 also:
 kla = ate
