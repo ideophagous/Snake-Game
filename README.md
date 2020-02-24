@@ -7,8 +7,8 @@ Function names are mostly in Moroccan Darija:
 - makla = food
 
 also:
-kla = ate
-mat = died
+- kla = ate
+- mat = died
 
 Rules and properties of the game:
 
